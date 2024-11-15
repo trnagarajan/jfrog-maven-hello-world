@@ -72,4 +72,12 @@
       </plugins>
     </pluginManagement>
   </build>
+<distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>a0nqe0fkmtify-artifactory-primary-0-snapshots</name>
+        <url>https://trnagarajan.jfrog.io/artifactory/ntr-libs-snapshot</url>
+    </snapshotRepository>
+</distributionManagement>
+  
 </project>
